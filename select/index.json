@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "First of the Year (Equinox)",
+  "base_artist": "Skrillex",
+  "createdAt": "2026-02-13T19:37:20.033302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First of the Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/01_First_of_the_Year_(Equinox)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "First of the Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/02_First_of_the_Year_(Equinox)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skrillex - First Of The Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/03_Skrillex_-_First_Of_The_Year_(Equinox)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "First of the Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/04_First_of_the_Year_(Equinox)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "First of The Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/05_First_of_The_Year_(Equinox)_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "first of the year (equinox) (original mix)",
+      "artist": "SKRILLEX",
+      "has_synced": true,
+      "path": "select/06_first_of_the_year_(equinox)_(original_mix)_SKRILLEX.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "First Of The Year [Equinox]",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/07_First_Of_The_Year_[Equinox]_Skrillex.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "First Of The Year (Equinox)",
+      "artist": "Skrillex",
+      "has_synced": false,
+      "path": "select/pl_01_First_Of_The_Year_(Equinox)_Skrillex.txt"
+    }
+  ]
+}
